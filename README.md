@@ -150,6 +150,13 @@ Four strategic talent archetypes:
 
 ------------------------------------------------------------------------
 
+## Important Links
+
+-  [Report] https://docs.google.com/document/d/1HWjXdwcGXy4FsScoOmMYfRlu0J6rIr-Eyk-1trhXdFo/edit?usp=sharing
+-  [Dataset] https://docs.google.com/spreadsheets/d/1ExBcNQPW21iuDBfiJjlKQDZuWv58zXoHFDzXAkLnkUY/edit?usp=sharing
+-  [Presentation] https://drive.google.com/file/d/1w702m-hkvnM9eDlfhv7GaSWFKTuxtcwJ/view?usp=drive_link
+------------------------------------------------------------------------
+
 ## 👥 Team
 
 Group-5 -- Newton School of Technology (2026)
